@@ -12,7 +12,6 @@ const userRoutes = require("./src/routes/auth");
 const messageRoutes = require("./src/routes/messages");
 const reserveRoutes = require("./src/routes/reserves");
 const morganMiddleware = require("./src/middlewares/morgan");
-// const logger = require("./util/logger");
 
 var server = http.createServer(app);
 
