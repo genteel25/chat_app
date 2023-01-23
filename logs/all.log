@@ -1,0 +1,6 @@
+2023-01-23 14:31:59:3159 [32minfo[39m: [32mGotten all the reserves[39m
+2023-01-23 14:31:59:3159 [35mhttp[39m: [35m::1 GET /api/v1/reserves/fetch_reserves 200 562 - 1843.752 ms[39m
+[35m[39m
+2023-01-23 14:34:57:3457 [32minfo[39m: [32mSomething went wrong[39m
+2023-01-23 14:34:57:3457 [35mhttp[39m: [35m::1 GET /api/v1/reserves/fetch_reserves 400 34 - 54116.129 ms[39m
+[35m[39m
